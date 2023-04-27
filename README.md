@@ -1,5 +1,7 @@
 # How to run it
 
+![image](https://user-images.githubusercontent.com/76447395/234918992-7a8d5d25-cdfe-4cab-900c-07abdeddcb7a.png)
+
 ```
 usage: bot.py [-h] -u USER -p PASSWORD [-l LIST] [-x PREFERENCIAS] [-b LOOP]
 
