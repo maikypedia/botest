@@ -1,4 +1,4 @@
-# How to run it
+# I don't even go to that gym lol
 
 ![image](https://user-images.githubusercontent.com/76447395/234918992-7a8d5d25-cdfe-4cab-900c-07abdeddcb7a.png)
 
